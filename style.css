@@ -1,0 +1,46 @@
+header{
+    background-color: lightblue;
+    padding: 15px;
+}
+nav a{
+    background-color: darkblue;
+    color: lightgray;
+    padding: 5px;
+    margin: 20px;
+    border-radius: 15px;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: Verdana;
+}
+body{
+    background-color: lightgray;
+    margin: -5px;
+    font-family: sans-serif;
+}
+main{
+    background-color: blue;
+    color: lightblue;
+    margin-top: -35px;
+}
+main p{
+    width: 80%;
+    text-align: justify;
+    margin-left:10%;
+    margin-right:10%;
+    padding: 15px;
+}
+h2{
+    margin-left: 10%;
+    background-color: blue;
+    font-size: 40xp;
+    padding: 10px;
+}
+main img{
+    width: 80%;
+    margin-left:10%;
+    margin-right:10%;
+    padding: 15px;
+}
+footer p{
+    padding-left:80px;
+}
